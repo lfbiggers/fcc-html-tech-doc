@@ -1,0 +1,17 @@
+header {
+  font-weight: bold;
+}
+@media screen and (max-width: 400px) {
+  .main-section {
+    font-size: 18px;
+  }
+}
+#navbar {
+  position: fixed;
+  left: 0;
+}
+ul#navlist {
+  list-style-type: none;
+  left: 0;
+  padding: 5px;
+}
